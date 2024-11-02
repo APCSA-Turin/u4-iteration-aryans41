@@ -32,9 +32,7 @@ public class Main {
       return false;
     }
 
-
     int currentDivisor = 2; //start at 2 since no need to check 1
-
 
     while (currentDivisor < number) {
       if (number % currentDivisor == 0) {
