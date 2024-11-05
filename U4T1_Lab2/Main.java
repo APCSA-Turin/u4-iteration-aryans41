@@ -1,3 +1,4 @@
+package U4T1_Lab2;
 import java.util.Scanner;
 
 public class Main {
